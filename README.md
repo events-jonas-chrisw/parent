@@ -1,2 +1,2 @@
 # child
-subtree respoitory containing files
+subtree respository containing files
