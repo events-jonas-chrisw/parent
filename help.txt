@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 846E-45C2
+
+ Directory of C:\dev\GITSUBTREE\parent\files
+
+16/11/2017  11:42    <DIR>          .
+16/11/2017  11:42    <DIR>          ..
+16/11/2017  11:37    <DIR>          css
+16/11/2017  11:42                 0 help.txt
+16/11/2017  11:37    <DIR>          images
+16/11/2017  11:37                47 README.md
+               2 File(s)             47 bytes
+               4 Dir(s)  199,324,651,520 bytes free
